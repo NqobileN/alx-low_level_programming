@@ -1,4 +1,4 @@
-#Include <stdio.h>
+#include <stdio.h>
 /**
  * main - print output using printf function
  * 
