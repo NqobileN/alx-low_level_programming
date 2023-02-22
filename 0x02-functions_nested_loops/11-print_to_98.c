@@ -2,7 +2,9 @@
 #include <stdio.h>
 
 /**
- * print_to_98 - print n to 98 counts, in ascending order, that are separated by comma
+ * print_to_98 - print n to 98 counts
+ * 		 in ascending order
+ * 		 that are separated by comma
  * @n: input
  */
 
