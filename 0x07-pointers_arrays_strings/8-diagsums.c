@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print_diagsums - func. prints sum of 2 diag.
+ * print_diagsums - func. prints sum of diag.
  * @a: input
  * @size: input
  * Return: Always 0 (Success)
